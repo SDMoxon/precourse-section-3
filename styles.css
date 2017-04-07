@@ -12,6 +12,23 @@ body{
    padding: 0;
  }
 
+ img {
+    height: 30%;
+    width: 40%;
+    border-radius: 50%;
+    border:solid 1px;
+    box-shadow: 10px 10px 5px #888888 
+
+  }
+
+ p{
+    font-size: large;
+ }
+
+ h1{
+    padding: 0% 25%;
+ }
+
 /*-- don't alter above this line --*/
 
 .nav {
@@ -63,4 +80,14 @@ body{
   padding: 0% 15%;
 }
 
+.sectionPictureRight{
+  width: 30%;
+  float: right;
+  padding-top: 20px;
+}
 
+.sectionText{
+ width: 60%;
+ float:left;
+  
+}
