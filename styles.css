@@ -1,0 +1,66 @@
+html{
+    height: 100%;
+    width:100%;
+    margin: 0;
+    padding: 0;
+}
+
+body{
+   height: 100%;
+   width: 100%;
+   margin: 0;
+   padding: 0;
+ }
+
+/*-- don't alter above this line --*/
+
+.nav {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+
+.navList {
+    float: left;
+}
+
+.navList a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+.pageNav {
+  background-color: #751308;
+}
+
+.contentNavList{
+  background-color: #C99F3A;
+  width: 33.3%;
+}
+
+.contentNavList_2{
+  background-color: #C99F3A;
+  width: 50%;
+}
+
+.pageNavList{
+  width:15%;
+}
+
+.content{
+  height: 100%;
+  width: 100%;
+  padding-top:10%;
+   
+}
+.category{
+  height: 100%;
+  width:85%;
+  padding: 0% 15%;
+}
+
+
